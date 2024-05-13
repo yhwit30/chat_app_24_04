@@ -1,3 +1,9 @@
+## 개발환경
+java 17 <br>
+Visual Studio Code <br>
+Postman
+
+
 ## 채팅서비스
 
 ![image](https://github.com/yhwit30/chat_app_24_04/assets/153142837/c8f26307-d047-418a-b7b3-1aea1b6edad5)
